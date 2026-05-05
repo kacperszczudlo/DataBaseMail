@@ -1,4 +1,4 @@
-# 📊 DataBaseMail
+# DataBaseMail
 
 ![GUI](https://img.shields.io/badge/GUI-JavaFX-FF7800?style=flat-square&logo=java)
 ![Database](https://img.shields.io/badge/database-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -14,7 +14,7 @@ Aplikacja umożliwia intuicyjny wybór schematu i tabeli z bazy PostgreSQL, a na
 
 ---
 
-## ✨ Funkcje
+## Funkcje
 
 - **Przegląd schematów i tabel** – automatyczne pobieranie i listowanie dostępnych struktur z bazy
 - **Dynamiczny podgląd danych** – wyświetlanie zawartości tabeli w interaktywnym widoku `TableView`
@@ -25,7 +25,7 @@ Aplikacja umożliwia intuicyjny wybór schematu i tabeli z bazy PostgreSQL, a na
 
 ---
 
-## 🧰 Technologie i narzędzia
+## Technologie i narzędzia
 
 - **Java 11+**
 - **JavaFX** – GUI
@@ -36,7 +36,7 @@ Aplikacja umożliwia intuicyjny wybór schematu i tabeli z bazy PostgreSQL, a na
 
 ---
 
-## ✅ Wymagania
+## Wymagania
 
 - JDK **11** lub nowsze
 - PostgreSQL (lokalnie lub zdalnie)
@@ -44,7 +44,7 @@ Aplikacja umożliwia intuicyjny wybór schematu i tabeli z bazy PostgreSQL, a na
 
 ---
 
-## 🔐 Konfiguracja (plik `.env`)
+## Konfiguracja (plik `.env`)
 
 Aplikacja wczytuje dane dostępowe z pliku `.env`. **Plik ten powinien być ignorowany przez Gita i nie może trafić do publicznego repozytorium.**
 
@@ -86,7 +86,7 @@ W pliku `.gitignore` dopisz:
 
 ---
 
-## ▶️ Uruchamianie
+## Uruchamianie
 
 Uruchom aplikację za pomocą pluginu JavaFX w Maven:
 
@@ -96,7 +96,7 @@ mvn clean javafx:run
 
 ---
 
-## 🧭 Jak korzystać z aplikacji?
+## Jak korzystać z aplikacji?
 
 1. Po uruchomieniu wybierz **schemat** z pierwszej listy rozwijanej na górze
 2. Następnie wybierz **tabelę** z drugiej listy
@@ -108,11 +108,11 @@ mvn clean javafx:run
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Kacper Szczudło**  
 GitHub: [@kacperszczudlo](https://github.com/kacperszczudlo)
 
 ---
 
-⭐ Jeśli projekt okazał się przydatny, zostaw gwiazdkę na GitHubie!
+Jeśli projekt okazał się przydatny, zostaw gwiazdkę na GitHubie!
